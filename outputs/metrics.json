@@ -1,0 +1,10 @@
+{
+  "rows": 1797,
+  "features": 64,
+  "baseline_accuracy": 0.9772727272727273,
+  "experimental_accuracy": 0.9722222222222222,
+  "baseline_loss": 0.04607984271239151,
+  "experimental_loss": 0.08498384744267572,
+  "epochs": 8,
+  "experiment": "Added dropout=0.25 before final linear layer"
+}
