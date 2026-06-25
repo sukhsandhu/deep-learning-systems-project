@@ -1,17 +1,21 @@
-Local Version-Control Evidence
+Public GitHub Repository Evidence
 
-        Author: Sukh Sandhu
+Author: Sukh Sandhu
+Repository: https://github.com/sukhsandhu/deep-learning-systems-project
 
-        Branches:
-        development
+Branches:
+development
 * main
+  remotes/origin/development
+  remotes/origin/main
 
-        Commit history:
-        *   5ce2f7a (HEAD -> main) Merge development evidence
+Commit history:
+* 0f4acaa (HEAD -> main, origin/main) Document repository evidence
+*   5ce2f7a Merge development evidence
 |\  
-| * 3e024d8 (development) Add development branch notes
+| * 3e024d8 (origin/development, development) Add development branch notes
 |/  
 * d709f5c Initial capstone project structure
 
-        Submission note:
-        The project folder is organized so it can be pushed to the required public GitHub repository before final Udacity upload.
+Rubric note:
+The public repository includes multiple commits on main and an additional development branch.
