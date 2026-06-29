@@ -2,15 +2,19 @@ Public GitHub Repository Evidence
 
 Author: Sukh Sandhu
 Repository: https://github.com/sukhsandhu/deep-learning-systems-project
+Evidence refreshed: 2026-06-29
 
 Branches:
-development
+  development
 * main
   remotes/origin/development
   remotes/origin/main
 
-Commit history:
-* 0f4acaa (HEAD -> main, origin/main) Document repository evidence
+Substantive commit history:
+* 39997a4 (HEAD -> main, origin/main) Fix notebook execution indentation
+* 90e5158 Add Udacity submission filename aliases
+* 1b02566 Add public GitHub repository link
+* 0f4acaa Document repository evidence
 *   5ce2f7a Merge development evidence
 |\  
 | * 3e024d8 (origin/development, development) Add development branch notes
@@ -18,4 +22,4 @@ Commit history:
 * d709f5c Initial capstone project structure
 
 Rubric note:
-The public repository includes multiple commits on main and an additional development branch.
+The public repository includes multiple commits on main and an additional development branch. The notebook execution fix is included in the commit history. A final evidence-refresh commit may appear above the material commits because this file is updated after the notebook fixes are prepared.
